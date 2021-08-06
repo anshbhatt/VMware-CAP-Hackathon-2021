@@ -1,6 +1,6 @@
 # Staff Management Tool
 
-For a deeper insight, refer to the Idea Presentation file above.
+For a deeper insight into our solution, refer to the 'VMWare CAP Hackathon 2021 - Staff Management Tool.pdf' above.
 
 Live Demo : https://drive.google.com/file/d/1tdDJaGNoUdCKoz57TC1XsLXXss2Rfh4I/view?usp=sharing
 <br>
